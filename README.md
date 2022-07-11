@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm Akshay Ghodke
 #### I'm a MERN stack Developer😄 
-## ⚡I Love Solving Coding Problems
-## 🌱🌱🌱Currently working as SDE in SmartCloud Infofusion Pvt Ltd🌱🌱🌱
+#### ⚡I Love Solving Coding Problems
+#### 🌱🌱🌱Currently working as SDE in SmartCloud Infofusion Pvt Ltd🌱🌱🌱
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akshay-ghodke&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
